@@ -1,8 +1,3 @@
-# Requirements
-
-Java 8 or higher
-Maven 3 or higher
-
 # Documentation
 
 See "Wiki" section
