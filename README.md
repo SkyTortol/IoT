@@ -4,7 +4,7 @@ Please see the "Wiki" section to access all documentation.
 
 # License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2017 Jin Su
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
