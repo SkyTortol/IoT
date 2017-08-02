@@ -1,6 +1,6 @@
 # Documentation
 
-See "Wiki" section
+Please see the "Wiki" section to access all documentation.
 
 # License
 
