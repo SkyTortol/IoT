@@ -10,11 +10,11 @@ To build, you need
 
 Setup
 ======
-Before cloning this repository, be sure to enable automatic conversion of CRLF/LF on your machine using "git config --global core.autocrlf input". For more information, please  refer to http://help.github.com/dealing-with-lineendings/
+Before cloning this repository, be sure to enable automatic conversion of CRLF/LF on your machine using "git config --global core.autocrlf input". For more information, please  refer to <http://help.github.com/dealing-with-lineendings/>.
 
 Documentation
 ======
-See "Wiki"
+All documentation can be found under the "Wiki" section.
 
 License
 ======
