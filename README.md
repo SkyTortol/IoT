@@ -18,7 +18,7 @@ Documentation
 ======
 All documentation can be found under the "Wiki" section.
 
-Documentation
+Video
 ======
 https://youtu.be/wtCz0L8b778
 
