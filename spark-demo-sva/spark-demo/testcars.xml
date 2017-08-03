@@ -1,0 +1,327 @@
+<emission-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/emission_file.xsd">
+
+
+ <timestep time="0.00">
+ <vehicle id="0" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!0" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="29276269#0_0" pos="5.10" speed="0.00" angle="140.06" x="5401.76" 
+y="12988.64"/>
+         <vehicle id="1" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-29276407_0" pos="5.10" speed="0.00" angle="251.71" x="6358.01" 
+y="9101.78"/>
+         <vehicle id="2" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!2" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="146418413#0_0" pos="5.10" speed="0.00" angle="313.88" x="5438.49" 
+y="9641.82"/>
+         <vehicle id="3" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!3" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34190587_0" pos="5.10" speed="0.00" angle="161.40" x="9137.70" 
+y="4326.99"/>
+         <vehicle id="4" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!4" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="242551825#6_0" pos="5.10" speed="0.00" angle="249.80" x="9678.85" 
+y="8896.07"/>
+         <vehicle id="5" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!5" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-25512114#1_0" pos="5.10" speed="0.00" angle="218.54" x="9348.89" 
+y="906.32"/>
+ </timestep>
+ 
+<timestep time="1.00">
+         <vehicle id="0" eclass="HBEFA2/P_7_7" CO2="1449.01" CO="18.23" 
+HC="0.59" NOx="2.71" PMx="0.13" fuel="0.58" electricity="0.00" 
+noise="64.71" route="!0" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="29276269#0_0" pos="6.93" speed="1.83" angle="140.06" x="5402.94" 
+y="12987.23"/>
+         <vehicle id="1" eclass="HBEFA2/P_7_7" CO2="2297.14" CO="35.98" 
+HC="0.90" NOx="4.81" PMx="0.29" fuel="0.92" electricity="0.00" 
+noise="68.10" route="!1" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-29276407_0" pos="7.64" speed="2.54" angle="251.71" x="6355.60" 
+y="9100.98"/>
+         <vehicle id="10" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!10" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="164350620#2_0" pos="5.10" speed="0.00" angle="161.49" x="8797.94" 
+y="725.69"/>
+         <vehicle id="100" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!100" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="425996136#0_0" pos="5.10" speed="0.00" angle="66.15" x="9393.26" 
+y="6532.59"/>
+         <vehicle id="1000" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1000" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-447500846#1_0" pos="5.10" speed="0.00" angle="341.65" x="4560.93" 
+y="8075.28"/>
+         <vehicle id="1001" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1001" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-92826606#3_0" pos="5.10" speed="0.00" angle="251.23" x="7630.46" 
+y="10580.65"/>
+         <vehicle id="1002" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1002" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="164350237#8_0" pos="5.10" speed="0.00" angle="252.15" x="8212.83" 
+y="1726.89"/>
+         <vehicle id="1003" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1003" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34190910#0_0" pos="5.10" speed="0.00" angle="71.14" x="10192.01" 
+y="4134.54"/>
+         <vehicle id="1004" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1004" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-29199418#6_0" pos="5.10" speed="0.00" angle="70.37" x="8380.75" 
+y="5054.95"/>
+         <vehicle id="1005" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1005" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="292381078_0" pos="5.10" speed="0.00" angle="322.71" x="4899.68" 
+y="11002.34"/>
+         <vehicle id="1006" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1006" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-58984002#2_0" pos="5.10" speed="0.00" angle="212.67" x="8143.42" 
+y="4070.10"/>
+         <vehicle id="1007" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1007" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-29081534_0" pos="5.10" speed="0.00" angle="290.20" x="11155.08" 
+y="5065.38"/>
+         <vehicle id="1009" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1009" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34190724_0" pos="5.10" speed="0.00" angle="197.83" x="8488.90" 
+y="6218.67"/>
+         <vehicle id="101" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!101" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="25757352#2_0" pos="5.10" speed="0.00" angle="161.68" x="9480.41" 
+y="2028.79"/>
+         <vehicle id="1010" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1010" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-29081533#1_0" pos="5.10" speed="0.00" angle="160.44" x="11082.69" 
+y="5391.08"/>
+         <vehicle id="1011" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1011" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-242551825#0_0" pos="5.10" speed="0.00" angle="70.12" x="10128.76" 
+y="9048.74"/>
+         <vehicle id="1013" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1013" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="164352870#2_0" pos="5.10" speed="0.00" angle="251.54" x="6057.73" 
+y="4486.70"/>
+         <vehicle id="1014" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1014" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-487430864#1_0" pos="5.10" speed="0.00" angle="250.51" x="7010.68" 
+y="6866.65"/>
+         <vehicle id="1015" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1015" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34189648_0" pos="5.10" speed="0.00" angle="338.55" x="8787.32" 
+y="5339.23"/>
+         <vehicle id="1016" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1016" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="29081774_0" pos="5.10" speed="0.00" angle="72.51" x="9927.68" 
+y="6537.87"/>
+         <vehicle id="1017" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1017" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="350689539#1_0" pos="5.10" speed="0.00" angle="71.22" x="3735.72" 
+y="7935.09"/>
+         <vehicle id="1018" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1018" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="25791127#2_0" pos="5.10" speed="0.00" angle="155.52" x="11479.96" 
+y="4505.89"/>
+         <vehicle id="1019" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1019" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-455880682_0" pos="5.10" speed="0.00" angle="341.53" x="8497.07" 
+y="3290.09"/>
+         <vehicle id="102" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!102" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34191224_0" pos="5.10" speed="0.00" angle="155.87" x="8080.92" 
+y="8121.80"/>
+         <vehicle id="1020" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1020" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="25878363#1_0" pos="5.10" speed="0.00" angle="160.15" x="10182.83" 
+y="5672.18"/>
+         <vehicle id="1021" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1021" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34190236_0" pos="5.10" speed="0.00" angle="251.07" x="8545.30" 
+y="3972.69"/>
+         <vehicle id="1022" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1022" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-106675058#1_0" pos="5.10" speed="0.00" angle="290.18" x="8239.44" 
+y="2755.19"/>
+         <vehicle id="1023" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1023" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34192236#3_0" pos="5.10" speed="0.00" angle="340.60" x="7713.64" 
+y="5582.95"/>
+         <vehicle id="1024" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1024" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="168945952#0_0" pos="5.10" speed="0.00" angle="161.87" x="6304.09" 
+y="2896.69"/>
+         <vehicle id="1025" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1025" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-291520260#3_0" pos="5.10" speed="0.00" angle="166.13" x="7090.73" 
+y="4721.63"/>
+         <vehicle id="1026" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1026" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="25757424#5_0" pos="5.10" speed="0.00" angle="71.70" x="9255.03" 
+y="2716.95"/>
+         <vehicle id="1027" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1027" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34192813_0" pos="5.10" speed="0.00" angle="195.37" x="8618.71" 
+y="8139.67"/>
+         <vehicle id="1028" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1028" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34195129_0" pos="5.10" speed="0.00" angle="162.18" x="5637.11" 
+y="7057.86"/>
+         <vehicle id="1029" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1029" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-92942390#5_0" pos="5.10" speed="0.00" angle="342.27" x="5133.33" 
+y="6330.24"/>
+         <vehicle id="103" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!103" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34191594_0" pos="5.10" speed="0.00" angle="341.03" x="9265.07" 
+y="4253.11"/>
+         <vehicle id="1030" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1030" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-33929039#4_0" pos="5.10" speed="0.00" angle="312.53" x="2062.57" 
+y="18883.25"/>
+         <vehicle id="1031" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1031" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34190720_0" pos="5.10" speed="0.00" angle="259.98" x="9350.35" 
+y="6434.51"/>
+         <vehicle id="1032" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1032" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-159834217#1_0" pos="5.10" speed="0.00" angle="249.69" x="8348.37" 
+y="4590.62"/>
+         <vehicle id="1033" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1033" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="29276236#0_0" pos="5.10" speed="0.00" angle="72.27" x="7074.72" 
+y="9141.82"/>
+         <vehicle id="1035" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1035" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34190123_0" pos="5.10" speed="0.00" angle="3.05" x="6960.92" 
+y="7783.37"/>
+         <vehicle id="1037" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1037" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34191940_0" pos="5.10" speed="0.00" angle="162.00" x="8564.77" 
+y="7859.04"/>
+         <vehicle id="1038" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1038" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-159829532#3_0" pos="5.10" speed="0.00" angle="256.93" 
+x="11964.03" y="4239.68"/>
+         <vehicle id="1039" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1039" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="25513835#1_0" pos="5.10" speed="0.00" angle="125.13" x="9500.23" 
+y="1769.21"/>
+         <vehicle id="104" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!104" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-500869231_0" pos="5.10" speed="0.00" angle="253.87" x="8289.78" 
+y="1600.31"/>
+         <vehicle id="1040" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1040" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="157331954#0_0" pos="5.10" speed="0.00" angle="339.75" x="5696.57" 
+y="2194.41"/>
+         <vehicle id="1041" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1041" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34193673_0" pos="5.10" speed="0.00" angle="159.06" x="5622.93" 
+y="7096.43"/>
+         <vehicle id="1042" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1042" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="164609192#1_0" pos="5.10" speed="0.00" angle="260.36" x="10785.65" 
+y="5847.82"/>
+         <vehicle id="1043" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1043" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-132907548#0_0" pos="5.10" speed="0.00" angle="39.16" x="7524.03" 
+y="8101.42"/>
+         <vehicle id="1044" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1044" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="362342564#2_0" pos="5.10" speed="0.00" angle="247.62" x="9014.32" 
+y="3273.51"/>
+         <vehicle id="1045" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1045" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-25513542#3_0" pos="5.10" speed="0.00" angle="71.86" x="9290.51" 
+y="2471.44"/>
+         <vehicle id="1046" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1046" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="84012991#3_0" pos="5.10" speed="0.00" angle="249.60" x="5669.05" 
+y="8613.37"/>
+         <vehicle id="1047" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1047" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="164602666#0_0" pos="5.10" speed="0.00" angle="159.40" x="7111.02" 
+y="5048.30"/>
+         <vehicle id="1048" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1048" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="34189151#0_0" pos="5.10" speed="0.00" angle="215.04" x="6024.74" 
+y="7109.39"/>
+         <vehicle id="1049" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1049" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-194867366#2_0" pos="5.10" speed="0.00" angle="107.30" x="7924.25" 
+y="9970.63"/>
+         <vehicle id="105" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!105" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-157331935#1_0" pos="5.10" speed="0.00" angle="250.43" x="5166.44" 
+y="3402.00"/>
+         <vehicle id="1050" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1050" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="-34195577_0" pos="5.10" speed="0.00" angle="245.43" x="5784.21" 
+y="6121.03"/>
+         <vehicle id="1051" eclass="HBEFA2/P_7_7" CO2="601.69" CO="6.37" 
+HC="0.35" NOx="0.84" PMx="0.02" fuel="0.24" electricity="0.00" 
+noise="55.94" route="!1051" type="DEFAULT_VEHTYPE" waiting="0.00" 
+lane="159834212#0_0" pos="5.10" speed="0.00" angle="71.31" x="8375.37" 
+y="4593.17"/>
+
+</timestep>
+
+</emission-export>
