@@ -12,6 +12,8 @@ Setup
 ======
 Before cloning this repository, be sure to enable automatic conversion of CRLF/LF on your machine using "git config --global core.autocrlf input". For more information, please  refer to <http://help.github.com/dealing-with-lineendings/>.
 
+To access the webpage we used the URL http://localhost:4567/index.html.
+
 Documentation
 ======
 All documentation can be found under the "Wiki" section.
